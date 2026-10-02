@@ -40,3 +40,7 @@
 
 # \- Git \& GitHub
 
+
+## Development Workflow
+
+This project follows an AI-assisted development workflow using Git, GitHub, and an AI coding assistant.
